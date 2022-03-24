@@ -37,7 +37,7 @@
     </properties>
 
     <build>
-        <finalName>1869</finalName>
+        <finalName>webapps</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
